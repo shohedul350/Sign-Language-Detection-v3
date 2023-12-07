@@ -61,7 +61,10 @@ After Collecting  Data we have to format this image Yolo format  using online to
 python3 train.py --img-size 640 --batch 16 --epochs 100 --data custom.yaml  --weights yolov5s.pt --nosave --cache
 ```
 Optimizer stripped from runs/train/exp/weights/last.pt, 
+
+```
 python3 detect.py --weight runs/train/exp/weights/last.pt --img 640 --conf 0.25 --source 0
+```
 ## Usage
 To use this Sign Language Detection project, follow these steps:
 
