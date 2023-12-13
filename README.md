@@ -76,5 +76,20 @@ To use this Sign Language Detection project, follow these steps:
 * [Roboflow Blog](https://blog.roboflow.com/yolov5-improvements-and-evaluation)
 
 
+https://medium.com/@mycodingmantras/building-a-real-time-object-detection-and-tracking-app-with-yolov8-and-streamlit-part-2-d1a273592e7e
 
+https://github.com/CodingMantras/yolov8-streamlit-detection-tracking/tree/master/videos
+
+https://github.com/CodingMantras/yolov8-streamlit-detection-tracking
+
+https://lalodatos.medium.com/building-your-own-real-time-object-detection-app-roboflow-yolov8-and-streamlit-part-4-16a025c7240c
+
+https://github.com/xugaoxiang/yolov5-streamlit/blob/main/requirements.txt
+http://localhost:8501/
 python3 train.py --img-size 416 --batch-size 16 --epochs 50 --data custom.yaml --cfg models/yolov5s.yaml --weights yolov5s.pt
+
+pip3 install streamlit                                                                                                                                                                
+ pip3 install pytube  
+  pip3 install lap 
+  install pytube
+install --no-cache "lapx>=0.5.2"
